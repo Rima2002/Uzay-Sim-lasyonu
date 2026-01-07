@@ -3,8 +3,8 @@
 
 ## 👤 Proje Sahibi
 - **Ad Soyad:** Rima Farah Eleuch  
-- **Öğrenci No:** (öğrenci numaranı buraya yaz)  
-- **Bölüm / Şube:** (bölüm ve şube bilgini yaz)
+- **Öğrenci No:** 21360859216
+- **Bölüm / Şube:** Bilgisayar Mühendisliği Şube 2
 
 > Bu proje bireysel olarak geliştirilmiştir.
 
@@ -57,13 +57,7 @@ Her deney ayrı bir fonksiyon olarak yazılmıştır.
 
 ## 📂 Dosya Yapısı
 - `ODEV.c` → Projenin kaynak kodu  
-- `rapor.pdf` → Proje raporu  
+- `Odev_RimaFarahEleuch_21360859216.pdf` → Proje raporu  
 
 ---
 
-## ▶️ Programı Çalıştırma
-C derleyicisi bulunan bir ortamda aşağıdaki komutlarla program derlenip çalıştırılabilir:
-
-```bash
-gcc ODEV.c -o proje
-./proje
