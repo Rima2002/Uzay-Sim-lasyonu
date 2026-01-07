@@ -48,7 +48,7 @@ Her deney ayrı bir fonksiyon olarak yazılmıştır.
 ## 🛠️ Kullanılan Yapılar ve Kavramlar
 - `for` döngüleri  
 - `switch-case` menü yapısı  
-- Fonksiyonlar (modüler programlama)  
+- Fonksiyonlar  
 - Dizilere pointer mantığıyla erişim  
 - Ternary operatörü  
 - Standart C kütüphaneleri (`stdio.h`, `math.h`)
